@@ -1,0 +1,17 @@
+{
+  "name": "WorkBook",
+  "short_name": "word-book",
+  "icons": [
+    {
+      "src": "/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+    
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#1f1f1f",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
